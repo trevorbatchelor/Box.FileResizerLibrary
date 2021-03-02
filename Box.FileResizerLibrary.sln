@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box.FileResizerLibrary", "Box.FileResizerLibrary\Box.FileResizerLibrary.csproj", "{FF876743-5A07-4D7F-8F5E-541BFD8DD47E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box.FileResizerLibrary.ConsoleApp", "Box.FileResizerLibrary.ConsoleApp\Box.FileResizerLibrary.ConsoleApp.csproj", "{C8D601B2-F6AC-4B54-BC2A-953F94090DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF876743-5A07-4D7F-8F5E-541BFD8DD47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF876743-5A07-4D7F-8F5E-541BFD8DD47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF876743-5A07-4D7F-8F5E-541BFD8DD47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF876743-5A07-4D7F-8F5E-541BFD8DD47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D601B2-F6AC-4B54-BC2A-953F94090DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D601B2-F6AC-4B54-BC2A-953F94090DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D601B2-F6AC-4B54-BC2A-953F94090DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D601B2-F6AC-4B54-BC2A-953F94090DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1E80836-B11A-4E34-A302-44D386D03CB0}
+	EndGlobalSection
+EndGlobal
